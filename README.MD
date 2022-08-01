@@ -7,7 +7,7 @@ A command library for java
 
 ## Maven Installation
 
-```java
+```xml
 
 <repository>
   <id>reposilite-repository</id>
